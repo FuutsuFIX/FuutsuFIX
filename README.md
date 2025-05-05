@@ -1,9 +1,9 @@
-<h1 align="center">Ciao 👋, sono Federico Pastori</h1>
-<h3 align="center">Frontend Developer appassionato di tecnologia e interfacce intuitive</h3>
+<h1 align="center">Hi 👋, I'm Federico Pastori</h1>
+<h3 align="center">A passionate Frontend Developer focused on intuitive and accessible interfaces</h3>
 
 ---
 
-<h3 align="left">💻 Competenze tecniche</h3>
+<h3 align="left">💻 Technical Skills</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -36,63 +36,63 @@
 
 ---
 
-## 🎯 Profilo
+## 🎯 About Me
 
-Neolaureato in **Teoria e Tecnologia della Comunicazione** con una forte inclinazione verso lo sviluppo frontend e l’UX/UI design. Mi piace creare interfacce intuitive, performanti e accessibili. Sono una persona curiosa, precisa e orientata alla soluzione dei problemi, con esperienze sia accademiche che personali in ambienti web moderni.
-
----
-
-## 🧠 Formazione
-
-🎓 **Università degli Studi di Milano-Bicocca**  
-- Laurea Magistrale in Teoria e Tecnologie della Comunicazione *(2022 - 2025)*  
-- Approccio interdisciplinare tra informatica, psicologia e interazione uomo-tecnologia
-
-🎓 **Università degli Studi di Pavia**  
-- Laurea Triennale in Scienze e Tecniche Psicologiche *(2019 - 2022)*
-
-🎓 **Liceo Scientifico – Istituto Salesiano Don Bosco Milano** *(Diploma, 2019)*
+I'm a recent graduate in **Theory and Technology of Communication** with a strong focus on frontend development and UX/UI design. I love creating intuitive, high-performance, and accessible interfaces. I'm curious, detail-oriented, and problem-solving driven, with experience in both academic and personal web projects.
 
 ---
 
-## 💼 Esperienza
+## 🧠 Education
 
-### 👨‍💻 Frontend Developer / Designer – Progetto DIPPS  
-📍 Università di Milano-Bicocca – *Giu 2023 – Presente*
+🎓 **University of Milano-Bicocca**  
+- Master's Degree in Theory and Technology of Communication *(2022 - 2025)*  
+- Interdisciplinary approach combining computer science, psychology, and human-computer interaction
 
-- Sviluppo di interfacce digitali per questionari psicodiagnostici
-- Utilizzo di **React.js**, **TypeScript**, **TailwindCSS** e **Next.js (T3 Stack)**
-- Ottimizzazione dell’esperienza utente e dell’accessibilità
+🎓 **University of Pavia**  
+- Bachelor's Degree in Psychological Science and Techniques *(2019 - 2022)*
 
-### 🌐 Progetto personale – [digiprintmon.com](https://www.digiprintmon.com)  
-- Generatore di PDF con immagini del gioco di carte Digimon Card Game 2020.
-- Sviluppato con **HTML**, **CSS**, **JavaScript**  
-- Più di **50.000 visualizzazioni nel 2024**, ottimizzazione SEO e automazione via API
+🎓 **Salesian Scientific High School, Milan** *(Diploma, 2019)*
+
+---
+
+## 💼 Work Experience
+
+### 👨‍💻 Frontend Developer / Designer – DIPPS Project  
+📍 University of Milano-Bicocca – *Jun 2023 – Present*
+
+- Designed and developed digital interfaces for psychodiagnostic questionnaires
+- Used **React.js**, **TypeScript**, **TailwindCSS**, and **Next.js (T3 Stack)**
+- Improved usability and accessibility across the platform
+
+### 🌐 Personal Project – [digiprintmon.com](https://www.digiprintmon.com)  
+- A PDF generator for card game images  
+- Built with **HTML**, **CSS**, **JavaScript**  
+- Over **50,000 views in 2024**, SEO-optimized and API-automated
 
 ---
 
 ## 💡 Soft Skills
 
-- 🔍 Problem solving
-- 🤝 Lavoro di squadra
-- ⏰ Gestione del tempo
-- 💬 Comunicazione efficace
-- 🔄 Apprendimento continuo
-- 🧠 Pensiero critico
+- 🔍 Problem solving  
+- 🤝 Teamwork  
+- ⏰ Time management  
+- 💬 Effective communication  
+- 🔄 Continuous learning  
+- 🧠 Critical thinking  
 
 ---
 
-## 🌍 Lingue
+## 🌍 Languages
 
-- Italiano: Madrelingua  
-- Inglese: B2 (intermedio avanzato)
+- Italian: Native  
+- English: B2 (Upper-Intermediate)
 
 ---
 
-## 📫 Contattami
+## 📫 Get in Touch
 
 <a href="https://linkedin.com/in/federico-pastori-frontend" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 | 📧 federicopastori99@gmail.com  
-| 📍 Milano, Italia
+| 📍 Milan, Italy
